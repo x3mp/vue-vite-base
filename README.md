@@ -1,4 +1,4 @@
-# Vue Project Boilerplate
+# Vue 3 + Vite Project Boilerplate
 
 This boilerplate contains a proper Vue.js + Vite set-up using Vue Router.
 It's using the latest stable version of Vue 3 and Vite.
