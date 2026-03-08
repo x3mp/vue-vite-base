@@ -13,14 +13,14 @@ If you don't want to use this repo but create your own instaed here's how to cre
 
 ### Delete useless files:
 
-- components/HelloWorld.vue
-- assets/vue.svg
-- public folder
+- `src/components/HelloWorld.vue`
+- `src/assets/vue.svg`
+- `public/` folder
 
 ### Create folder structure:
 
-- src/layouts
-- src/views
+- `src/layouts`
+- `src/views`
 
 ### Create files:
 
@@ -45,8 +45,8 @@ If you don't want to use this repo but create your own instaed here's how to cre
 
 ## Create Vue Router index.js file
 
-1. Create router folder in /src
-2. Inside router folder create index.js file.
+1. Create router folder in `src/`
+2. Inside router folder create `index.js` file.
 
 #### index.js file
 
