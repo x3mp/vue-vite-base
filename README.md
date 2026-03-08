@@ -24,8 +24,16 @@ If you don't want to use this repo but create your own instaed here's how to cre
 
 ### Create files:
 
-- src/views/HomeView.vue (your homepage).
-- src/layouts/DefaultLayout.vue (the default layout)
+- `src/views/HomeView.vue` This is your homepage.
+- `src/layouts/DefaultLayout.vue` the default layout.
+
+#### HomeView.Vue
+
+```
+<script setup></script>
+
+<template></template>
+```
 
 #### DefaultLayout.vue:
 
