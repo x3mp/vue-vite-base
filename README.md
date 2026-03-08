@@ -3,6 +3,21 @@
 This boilerplate contains a proper Vue.js + Vite set-up using Vue Router.
 It's using the latest stable version of Vue 3 and Vite.
 
+## How to properly copy this repo?
+
+It's recommended to copy this repo using `npx degit` when starting your new project. Otherwise you'll link it to this repository, which you might not want.
+
+### Steps
+
+1. Open VS Code and open the folder where you want to get started on your new project.
+2. Run the following command in the command line
+
+```
+npx degit x3mp/vue-vite-base project-name
+```
+
+3. Navigate into the folder.
+
 If you don't want to use this repo but create your own instaed here's how to create a proper base using Vue, Vue Router and Vite.
 
 ## Set-up Vue project (with Router):
