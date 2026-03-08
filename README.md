@@ -16,7 +16,7 @@ It's recommended to copy this repo using `npx degit` when starting your new proj
 npx degit x3mp/vue-vite-base project-name
 ```
 
-3. Navigate into the folder.
+3. Navigate into the folder `cd project-name`.
 4. Run `npm install`.
 
 If you don't want to use this repo but create your own instaed here's how to create a proper base using Vue, Vue Router and Vite.
